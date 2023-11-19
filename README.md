@@ -1,4 +1,5 @@
 # wxrevoke-go
+[![Market](https://img.shields.io/badge/微信版本-v3.9.8.15-C050EC)](https://dldir1v6.qq.com/weixin/Windows/WeChatSetup.exe)  
 实时生成的微信防撤回补丁，仅支持最新版微信(amd64)
 
-power by @chenyutian 的自动汇编分析服务
+Power by Automatic assembly analysis service @chenyutian
